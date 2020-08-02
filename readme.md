@@ -1,7 +1,1 @@
-<style>
-    h1 {
-        color: red;
-    }
-</style>
-
-<h1> Test </h1>
+<h1 style="font-weight: 100;"> Oskar </h1>
