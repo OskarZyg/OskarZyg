@@ -1,1 +1,2 @@
-<h1 style="font-weight: 100;"> Oskar </h1>
+<h1>Oskar</h1>
+<hr>
