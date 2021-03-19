@@ -1,4 +1,7 @@
-<!-- CSS -->
+<!--
+
+---- CSS ----
+Does not work on github
 <style>
     h1 {
         font-size: 5vh;
@@ -14,6 +17,8 @@
         color: lightgreen;
     }
 </style>
+
+-->
 
 <!-- HTML -->
 <img src="media/oskarzyg/oskarzyg-header.png">
