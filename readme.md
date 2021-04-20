@@ -22,6 +22,7 @@ Does not work on github
 
 <!-- HTML -->
 <img src="media/oskarzyg/oskarzyg-header.png">
+note: i am currently locked on discord. please contact me on esper via irc or through twitter.
 <h1>Projects:</h1>
 <ul>
     <li><a href="https://github.com/OskarsMC-Network/StaffPass">StaffPass</a></li>
