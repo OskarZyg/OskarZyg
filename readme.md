@@ -22,7 +22,7 @@ Does not work on github
 
 <!-- HTML -->
 <img src="media/oskarzyg/oskarzyg-header.png">
-note: i am currently locked on discord. please contact me on esper via irc or through twitter.
+<a href="https://gist.github.com/OskarZyg/fe4adf8cd9a346d691e69e6322fc851a">About my Discord</a>
 <h1>Projects:</h1>
 <ul>
     <li><a href="https://github.com/OskarsMC-Network/StaffPass">StaffPass</a></li>
