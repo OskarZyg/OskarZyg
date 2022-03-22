@@ -22,6 +22,7 @@ Does not work on github
 
 <!-- HTML -->
 <img src="media/oskarzyg/oskarzyg-header.png">
+<h2><a href="https://oskar.oskarsmc.com/">https://oskar.oskarsmc.com</a> | <a href="https://discord.oskarsmc.com/">OskarZyg#5950</a> | <a href="mailto:oskar@oskarsmc.com">oskar@oskarsmc.com</a>
 <h1>Projects:</h1>
 todo
 
