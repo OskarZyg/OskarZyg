@@ -28,4 +28,3 @@ todo
 
 <h1>Other</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=oskarzyg&theme=dracula&show_icons=false">
-JDleQ3wUc5O9bYH2T_Clv38yQVWdEN62
