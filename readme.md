@@ -1,30 +1,20 @@
-<!--
+<img src="media/oskarzyg/oskarzyg-header.png" alt="hi! im oskar">
+<h2><a href="https://oskar.oskarsmc.com/">https://oskar.oskarsmc.com</a> | <a href="https://discord.oskarsmc.com/">OskarZyg#5950</a> | <a href="mailto:oskar@oskarsmc.com">oskar@oskarsmc.com</a></h2>
 
----- CSS ----
-Does not work on github
-<style>
-    h1 {
-        font-size: 5vh;
-        font-weight: 100;
-    }
+# Projects:
 
-    li {
-        color: lightgreen;
-        list-style-type: square;
-    }
+As of 01/03/2022:
 
-    li a {
-        color: lightgreen;
-    }
-</style>
+- message runs on 23 proxies with 762 players, and has handled thousands of messages.
+- send runs on 46 proxies with 964 players and has sent ~1000 players to different servers.
+- swap runs on 22 proxies with 550 players and has handled hundreds of server swaps
 
--->
+I maintain many more [plugins](https://github.com/OskarsMC-Plugins/), as well as other software, namely Python API's.
 
-<!-- HTML -->
-<img src="media/oskarzyg/oskarzyg-header.png">
-<h2><a href="https://oskar.oskarsmc.com/">https://oskar.oskarsmc.com</a> | <a href="https://discord.oskarsmc.com/">OskarZyg#5950</a> | <a href="mailto:oskar@oskarsmc.com">oskar@oskarsmc.com</a>
-<h1>Projects:</h1>
-todo
+# Donations
 
-<h1>Other</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=oskarzyg&theme=dracula&show_icons=false">
+For some reason people actually want to donate to me, unfortunately, not much fits my needs, so I've resorted to
+crypto (I'm not a cryptobro i promise):
+
+* Monero Wallet (XMR): `43CdVu2YiejjQoBnFM4eK3AhALDcdf1CYgUSPa6FN3t4QY2MNQEHDTU1YBoMPhTNondiJihcoPzoYfJACNMVJV1K6HArQyD`
+* Bitcoin (BTC): I _would_ take it, but I'd just convert it to Monero anyway...
